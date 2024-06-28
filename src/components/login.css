@@ -1,0 +1,18 @@
+.navba {
+    background-color: rgb(118, 56, 110);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.navbar{
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    padding: 10px;
+    border:5px solid rgb(137, 66, 137);
+    border-radius: 10px;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
